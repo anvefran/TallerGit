@@ -18,7 +18,7 @@ int main(int argc, char **argv)
 	/* obtiene nombre de archivo del argumento */
 	nombre_archivo = argv[1];
 
-	/* Abriendo el archivo */
+	/* Abriendo el archivo andrea */
 	printf("Abriendo %s...\n", nombre_archivo);
 	fptr = fopen(nombre_archivo, "r");
 
