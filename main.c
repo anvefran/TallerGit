@@ -37,7 +37,7 @@ int main(int argc, char **argv)
 		return 1;
 	}
 
-	/* Cierra el archivo */
+	/* Cierra el archivo cambio 3 */
 	fclose(fptr);
 
 	return 0;
