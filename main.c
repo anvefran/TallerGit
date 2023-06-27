@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 		return 1;
 	}
 
-	/* obtiene nombre de archivo del argumento */
+	/* obtiene nombre de archivo del argumento PRUEBAAAA*/
 	nombre_archivo = argv[1];
 
 	/* Abriendo el archivo andrea */
