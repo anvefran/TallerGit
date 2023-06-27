@@ -8,7 +8,7 @@ int main(int argc, char **argv)
 	FILE *fptr;
 	char linea[MAXLINE];
 
-	/* Verifica que se ha enviado exactamente un argumento */
+	/* Verifica que se ha enviado un argumento */
 	if (argc != 2){
 		fprintf(stderr, "Error, uso incorrecto de argumentos.\n");
 		fprintf(stderr, "Uso: %s <nombre archivo>\n", argv[0]);
